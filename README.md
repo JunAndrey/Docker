@@ -1,5 +1,5 @@
 # Point 1<br/>
-* забрать файлы из репозитория GitHub<br/>
+* забрать файлы из репозитория GitHub [здесь](https://github.com/JunAndrey/Docker/tree/main/point_1)<br/>
 * создать образ:<br/>
   docker build . -t <имя образа><br/>
 * запустить образ:<br/>
@@ -11,7 +11,7 @@
 
 # Point 2<br/>
 * Вы можете:<br/>
-* забрать файлы из репозитория GitHub<br/>
+* забрать файлы из репозитория GitHub [здесь](https://github.com/JunAndrey/Docker/tree/main/point_1](https://github.com/JunAndrey/Docker/tree/main/point_2)<br/>
 * создать образ:<br/>
   docker build . -t <имя образа><br/>
 * запустить образ:<br/>
