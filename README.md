@@ -1,7 +1,7 @@
 ## Point 1<br/>
 * забрать файлы из репозитория GitHub [здесь](https://github.com/JunAndrey/Docker/tree/main/point_1)<br/>
 * создать образ:<br/>
-  "*docker build . -t <имя образа>*"<br/>
+  «*docker build . -t <имя образа>*»<br/>
 * запустить образ:<br/>
   *docker run -d -p 7777:80 -v <абсолютный путь до директории с вашим html-файлом>:/usr/share/nginx/html --name <имя контейнера> <имя образа>*<br/>
   Флаг -v и последующие пути используются для замены дефолтной nginx-страницы на ваш html-файл<br/> 
