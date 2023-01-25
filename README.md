@@ -8,6 +8,7 @@
   для ***Win***   `-v C:\\Users\\<путь до директории>:/usr/share/nginx/html`<br/>
   для ***Linux***   `-v /home/<и т.д.>:/usr/share/nginx/html`<br/>
   в качестве html-файла можно использовать [это](https://github.com/JunAndrey/Docker/blob/main/point_1/index.html)<br/>
+* проверить результат командой `curl localhost:7777`
 
 ## Point 2<br/>
 * Вы можете:<br/>
@@ -16,3 +17,4 @@
   `docker build . -t <имя образа>`<br/>
 * запустить образ:<br/>
   `docker run -d -p 7777:6060 --name <имя контейнера> <имя образа>`<br/>
+* проверить результат командой `curl localhost:7777`
