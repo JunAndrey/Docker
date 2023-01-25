@@ -1,5 +1,4 @@
 FROM nginx:latest
-WORKDIR /home/andrey/Netology_test
 COPY static-html-directory /usr/share/nginx/html
 COPY nginx.conf /etc/nginx
 
