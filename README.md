@@ -7,7 +7,7 @@
   Флаг -v и последующие пути используются для замены дефолтной nginx-страницы на ваш html-файл<br/> 
   для Win -v C:\\Users\\<путь до директории>:/usr/share/nginx/html<br/>
   для Linux -v /home/<и т.д.>:/usr/share/nginx/html<br/>
-  в качестве html-файла можно использовать это-https://github.com/JunAndrey/Docker/blob/main/point_1/index.html<br/>
+  в качестве html-файла можно использовать [это](https://github.com/JunAndrey/Docker/blob/main/point_1/index.html)<br/>
 
 # Point 2<br/>
 * Вы можете:<br/>
