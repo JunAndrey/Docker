@@ -1,4 +1,4 @@
-Point 1<br/>
+«#»Point 1<br/>
 забрать файлы из репозитория GitHub<br/>
 создать образ:<br/>
 docker build . -t <имя образа><br/>
@@ -9,7 +9,7 @@ docker run -d -p 7777:80 -v <абсолютный путь до директор
 для Linux -v /home/<и т.д.>:/usr/share/nginx/html<br/>
 в качестве html-файла можно использовать это-https://github.com/JunAndrey/Docker/blob/main/point_1/index.html<br/>
 
-Point 2<br/>
+«#»Point 2<br/>
 Вы можете:<br/>
 забрать файлы из репозитория GitHub<br/>
 создать образ:<br/>
